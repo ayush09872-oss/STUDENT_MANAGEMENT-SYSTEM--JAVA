@@ -69,9 +69,7 @@ Student-Performance-Management-System/
 │   └── InputValidator.java
 │
 ├── docs/
-│   ├── Requirements.md
 │   ├── Test-Cases.md
-│   └── Architecture.md
 │
 ├── Screenshots/
 │
@@ -108,7 +106,7 @@ The project is intended to be compiled and run directly from the terminal.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/vaibhavshuklajune23-ctrl/Student-Performance-Management-System.git
+git clone https://github.com/[your user name]/Student-Performance-Management-System.git
 ```
 
 ### 2. Open the project folder
@@ -190,38 +188,6 @@ The application checks for invalid input such as:
 - Attendance greater than the total number of classes
 - Empty student names
 - Duplicate roll numbers
-
-## Documentation
-
-Project documentation is available in the `docs` folder:
-
-- `Requirements.md` - project requirements and expected functionality
-- `Test-Cases.md` - test cases used to check the application
-- `Architecture.md` - simple overview of how the Java classes work together
-
-## Screenshots
-
-The `Screenshots` folder contains images of the application and its major features.
-
-## Project Report
-
-The final academic report is stored in:
-
-```text
-Project-Report/
-```
-
-## Future Improvements
-
-Some possible improvements for future versions are:
-
-- Graphical user interface
-- Database integration
-- User login and authentication
-- More subjects
-- PDF report export
-- Monthly attendance tracking
-- More detailed performance analytics
 
 ## Author
 
